@@ -1,1 +1,2 @@
-# lab08-diner-front
+# starter-standalone
+Starter for lab 8
